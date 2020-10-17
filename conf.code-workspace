@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "sitemapxml"
+		},
+		{
+			"path": "ss"
+		},
+		{
+			"path": "uploads"
+		},
+		{
+			"path": "vendor"
+		},
+		{
+			"path": ".well-known"
+		},
+		{
+			"path": "cgi-bin"
+		},
+		{
+			"path": "cronlab"
+		},
+		{
+			"path": "css"
+		},
+		{
+			"path": "img"
+		},
+		{
+			"path": "new"
+		}
+	],
+	"settings": {}
+}
